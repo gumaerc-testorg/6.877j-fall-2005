@@ -6,8 +6,13 @@ description: 'This resource discusses the goal: understand this model, the "F=ma
 
   for computing a new state from the current state, Hardy-Weinberg equillibrium, and
   gene.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-877j-computational-evolutionary-biology-fall-2005/e8b5162bd926883aa44b83e8167f7723_lecture2.pdf
+file: /media/courses/6-877j-computational-evolutionary-biology-fall-2005/e8b5162bd926883aa44b83e8167f7723_lecture2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture2.pdf
 uid: e8b5162b-d926-883a-a44b-83e8167f7723
