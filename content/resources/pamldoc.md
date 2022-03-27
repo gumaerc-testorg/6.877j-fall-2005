@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 05bb9721-7533-33e3-81a0-181ca03c40a7
 resourcetype: Document
 title: pamldoc.pdf
 uid: 61ccec96-2ecc-6bb1-c8e5-5b2f36adc911

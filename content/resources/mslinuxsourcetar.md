@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 05bb9721-7533-33e3-81a0-181ca03c40a7
 resourcetype: Other
 title: mslinuxsourcetar.gz
 uid: b16237a3-b15d-1794-df43-cba0b8786c23

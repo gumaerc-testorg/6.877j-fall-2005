@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 05bb9721-7533-33e3-81a0-181ca03c40a7
 resourcetype: Other
 title: msmacsourcetar.gz
 uid: 6eb67685-cd27-56a8-8099-f36f282a934a

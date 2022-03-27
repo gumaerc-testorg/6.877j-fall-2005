@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 05bb9721-7533-33e3-81a0-181ca03c40a7
 resourcetype: Other
 title: CoalFace03btar.gz
 uid: fb59ee04-0610-b086-2a4f-d7b1510ea3b8

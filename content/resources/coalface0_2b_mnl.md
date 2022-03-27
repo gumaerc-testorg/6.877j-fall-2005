@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 05bb9721-7533-33e3-81a0-181ca03c40a7
 resourcetype: Document
 title: coalface0_2b_mnl.pdf
 uid: 63483bd7-b4f8-e39b-7ff0-695ab28614f5
