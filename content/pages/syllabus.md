@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: ddd019df-7793-3dab-1bbd-ad39a02cc585
 ---
@@ -46,7 +47,7 @@ Assignments
 
 This course is discussion and lab oriented. That is, the work of the course is done via **active class participation** and a series of **laboratory exercises**. There are **no** exams, in particular, there will be **no final exam**. Class participation will be encouraged in part by dividing each class period into two parts: the first a more standard lecture, and the second a more interactive session that will be led by class members in reaction to questions and readings appropriate for that day's topic. Laboratories will be handed out approximately every two weeks. The final project will involve an element of non determinism, i.e., so-called 'free will', in that you will be able to choose your own project and combine elements from the previous laboratories, or do something completely new. We will get started on the final projects early, since we aim for your team to present your project results in class. For the final project, we will have people work in teams of 2 or 3 (but not more, and at my urging, not fewer - solos are discouraged, but, like all labs, collaboration is encouraged - see below).
 
-The laboratory exercises are designed to be carried out mostly on your own personal computer, or alternatively on an MIT server. The software, along with related software you may find helpful, is given in the [labs]({{< baseurl >}}/pages/labs) section. Generally, you will be able to download the software and datasets to your own computer to do the laboratory exercises.
+The laboratory exercises are designed to be carried out mostly on your own personal computer, or alternatively on an MIT server. The software, along with related software you may find helpful, is given in the {{< resource_link 05bb9721-7533-33e3-81a0-181ca03c40a7 "labs" >}} section. Generally, you will be able to download the software and datasets to your own computer to do the laboratory exercises.
 
 Turning in Assignments
 ----------------------
