@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 3 part 2 containing codes.
-file: /media/courses/6-877j-computational-evolutionary-biology-fall-2005/ab9bc3ae5306ae6c93202535290ac26d_codonmlsites.ctl
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/ab9bc3ae5306ae6c93202535290ac26d_codonmlsites.ctl
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: codonmlsites.ctl
 uid: ab9bc3ae-5306-ae6c-9320-2535290ac26d
 ---
+This resource is a supporting file for lab 3 part 2 containing codes.
+

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains sites drosophila data set for analyzing some real
   polymorphism data.
-file: /media/courses/6-877j-computational-evolutionary-biology-fall-2005/5d108ef213377dcf70224afec1415c10_sitestestdata.txt
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/5d108ef213377dcf70224afec1415c10_sitestestdata.txt
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -14,3 +14,5 @@ resourcetype: Other
 title: sitestestdata.txt
 uid: 5d108ef2-1337-7dcf-7022-4afec1415c10
 ---
+This resource contains sites drosophila data set for analyzing some real polymorphism data.
+

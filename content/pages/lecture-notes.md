@@ -1,11 +1,16 @@
 ---
 content_type: page
+description: The lecture notes section contains 5 lecture files and questions for
+  lecture 1 and lecture 2, for further discussion and reflection.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: 8db0d4bb-8320-973f-7884-77ad939bac7b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section provides outlines and questions for a few of the lecture sessions. Additional lecture notes are forthcoming.
@@ -28,7 +33,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: The Basic Dynamical Systems of Evolution ({{< resource_link 06b1aede-fb96-5463-57e5-3d5a948a17ca "PDF" >}})
+Introduction: The Basic Dynamical Systems of Evolution ({{% resource_link 06b1aede-fb96-5463-57e5-3d5a948a17ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +42,7 @@ Introduction: The Basic Dynamical Systems of Evolution ({{< resource_link 06b1ae
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Evolution at the Molecular Level I ({{< resource_link 28cbd07b-a40b-0f31-1d0e-d99d4b7fcf8f "PDF" >}})
+Evolution at the Molecular Level I ({{% resource_link 28cbd07b-a40b-0f31-1d0e-d99d4b7fcf8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ Evolution at the Molecular Level I ({{< resource_link 28cbd07b-a40b-0f31-1d0e-d9
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Host-parasite Interactions and Disease Models ({{< resource_link 53f9401b-ba25-db78-905a-f07fc8379d47 "PDF" >}})
+Host-parasite Interactions and Disease Models ({{% resource_link 53f9401b-ba25-db78-905a-f07fc8379d47 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

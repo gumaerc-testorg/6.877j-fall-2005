@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 3 part 1, contains codes.
-file: /media/courses/6-877j-computational-evolutionary-biology-fall-2005/fe9cc7c4bcf994449ef375521f7e0b64_Pfa3D7_chr11ORFs50.fasta
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/fe9cc7c4bcf994449ef375521f7e0b64_Pfa3D7_chr11ORFs50.fasta
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Pfa3D7_chr11ORFs50.fasta
 uid: fe9cc7c4-bcf9-9444-9ef3-75521f7e0b64
 ---
+This resource is a supporting file for lab 3 part 1, contains codes.
+

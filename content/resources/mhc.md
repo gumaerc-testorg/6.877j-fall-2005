@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 3 part 2, contains codes.
-file: /media/courses/6-877j-computational-evolutionary-biology-fall-2005/d74a15048c93c142c1afe4b3e14190f5_mhc.phy
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/d74a15048c93c142c1afe4b3e14190f5_mhc.phy
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: mhc.phy
 uid: d74a1504-8c93-c142-c1af-e4b3e14190f5
 ---
+This resource is a supporting file for lab 3 part 2, contains codes.
+

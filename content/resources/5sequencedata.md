@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains sequence data for question 5 for lab 2 part 1.
-file: /media/courses/6-877j-computational-evolutionary-biology-fall-2005/2b41c2843639dc6162a5ad8e8d8a4388_5sequencedata.txt
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/2b41c2843639dc6162a5ad8e8d8a4388_5sequencedata.txt
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: 5sequencedata.txt
 uid: 2b41c284-3639-dc61-62a5-ad8e8d8a4388
 ---
+This resource contains sequence data for question 5 for lab 2 part 1.
+
