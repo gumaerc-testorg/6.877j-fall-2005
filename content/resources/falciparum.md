@@ -6,6 +6,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/c2b379d4a80d0
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: falciparum.fas
 uid: c2b379d4-a80d-0b43-5f27-430c8ec282ef
 ---
 This resource is a supporting file for lab 3 part 1 containing sequence alignment of Plasmodium falciparum (malaria).
-

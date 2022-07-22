@@ -5,6 +5,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/d74a15048c93c
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mhc.phy
 uid: d74a1504-8c93-c142-c1af-e4b3e14190f5
 ---
 This resource is a supporting file for lab 3 part 2, contains codes.
-

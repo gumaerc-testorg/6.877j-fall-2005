@@ -10,6 +10,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/e8b5162bd9268
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
 ---
 This resource discusses the goal: understand this model, the "F=ma", a selectional model of evolution, Fisher?s proof of mud slides, The forces of evolution: a dynamical system model
 for computing a new state from the current state, Hardy-Weinberg equillibrium, and gene.
-

@@ -6,6 +6,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/19f15c664a1ce
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This is supporting file for lab 2 part 2 contains manual for running ms programs and generating samples under neutral models.
-

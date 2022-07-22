@@ -6,6 +6,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/89355e488a755
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pamlexercise1.ctl
 uid: 89355e48-8a75-55f3-ae48-c38c3dfe981f
 ---
 This resource is a supporting file for lab 3 part 2 used with the PAML software.
-

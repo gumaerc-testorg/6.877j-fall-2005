@@ -6,6 +6,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/03470db6f2ad0
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paml_gstd1_seqfile.txt
 uid: 03470db6-f2ad-020e-2b3c-47f392882380
 ---
 This resource is a supporting file for lab 3 part 2, contains PAML sequence file.
-

@@ -5,6 +5,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/2b41c2843639d
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 5sequencedata.txt
 uid: 2b41c284-3639-dc61-62a5-ad8e8d8a4388
 ---
 This resource contains sequence data for question 5 for lab 2 part 1.
-

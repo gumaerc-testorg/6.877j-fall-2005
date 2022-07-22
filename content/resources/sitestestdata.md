@@ -6,6 +6,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/5d108ef213377
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sitestestdata.txt
 uid: 5d108ef2-1337-7dcf-7022-4afec1415c10
 ---
 This resource contains sites drosophila data set for analyzing some real polymorphism data.
-

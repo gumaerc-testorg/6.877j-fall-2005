@@ -7,6 +7,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/53f9401bba25d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses the cost of sex: why sex? Kirkpatrick?s Rocket: segregation can overcome the two-fold cost, and Kondrashov?s Hatchet: benefits of recombination can over-come the two-fold cost of sex.
-
