@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The lecture notes section contains 5 lecture files and questions for
+  lecture 1 and lecture 2, for further discussion and reflection.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8db0d4bb-8320-973f-7884-77ad939bac7b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section provides outlines and questions for a few of the lecture sessions. Additional lecture notes are forthcoming.
@@ -24,7 +33,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: The Basic Dynamical Systems of Evolution ([PDF]({{< baseurl >}}/resources/lec1_sum))
+Introduction: The Basic Dynamical Systems of Evolution ({{% resource_link 06b1aede-fb96-5463-57e5-3d5a948a17ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +42,7 @@ Introduction: The Basic Dynamical Systems of Evolution ([PDF]({{< baseurl >}}/re
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Evolution at the Molecular Level I ([PDF]({{< baseurl >}}/resources/molecular_evltn))
+Evolution at the Molecular Level I ({{% resource_link 28cbd07b-a40b-0f31-1d0e-d99d4b7fcf8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +51,7 @@ Evolution at the Molecular Level I ([PDF]({{< baseurl >}}/resources/molecular_ev
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Host-parasite Interactions and Disease Models ([PDF]({{< baseurl >}}/resources/lec19_sex))
+Host-parasite Interactions and Disease Models ({{% resource_link 53f9401b-ba25-db78-905a-f07fc8379d47 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +101,7 @@ Gould, S. J. _The Panda's Thumb: More Reflections in Natural History_. Reissue e
 14.  Derive the Hardy-Weinberg equilibrium. What assumptions must be made?
 15.  What does the following table illustrate? Focus on the assumptions that have to be made to apply this model.  
       
-    ![Allele frequencies.](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/lecture-notes/allele.jpg)  
+    {{< resource "c97c48c8-0851-35f3-2e1a-e7f98f00123a" >}}  
     
     Allele frequencies.
     

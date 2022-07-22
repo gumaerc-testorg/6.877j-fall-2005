@@ -1,10 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: a3cc104b-0e66-405e-922f-25aab9f34805
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-The lab assignments in the course made use of several software programs. Detailed instructions for how the tools were used can be found in the lab assignments in the [labs]({{< baseurl >}}/pages/labs) section.
+The lab assignments in the course made use of several software programs. Detailed instructions for how the tools were used can be found in the lab assignments in the {{% resource_link 05bb9721-7533-33e3-81a0-181ca03c40a7 "labs" %}} section.
 
 Populus
 -------

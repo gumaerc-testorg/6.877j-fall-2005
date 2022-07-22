@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The calendar section contains the information about lectures, topics,
+  and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b209e144-d30d-9790-3c86-7fed80278954
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
