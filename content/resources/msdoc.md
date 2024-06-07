@@ -3,6 +3,7 @@ content_type: resource
 description: This is supporting file for lab 2 part 2 contains manual for running
   ms programs and generating samples under neutral models.
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/19f15c664a1cecbf04019ecf5534b563_msdoc.pdf
+file_size: 217647
 file_type: application/pdf
 learning_resource_types:
 - Labs
