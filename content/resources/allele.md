@@ -2,6 +2,7 @@
 content_type: resource
 description: Allele frequencies.
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/c97c48c8085135f32e1ae7f98f00123a_allele.jpg
+file_size: 10268
 file_type: image/jpeg
 image_metadata:
   caption: ''

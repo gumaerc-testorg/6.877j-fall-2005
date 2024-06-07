@@ -7,6 +7,7 @@ description: 'This resource discusses the interaction of evolutionary forces, II
   the interaction of mutation, drift, selection: when does one force prevail over
   another?'
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/ef175aa06c49011c1cd871877becd9c0_lecture4.pdf
+file_size: 6176250
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

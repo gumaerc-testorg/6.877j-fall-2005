@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for lab 3 part 2 containing codes.
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/ab9bc3ae5306ae6c93202535290ac26d_codonmlsites.ctl
+file_size: 2273
 file_type: text/plain
 learning_resource_types:
 - Labs

@@ -4,6 +4,7 @@ description: 'This resource discusses the cost of sex: why sex? Kirkpatrick?s Ro
   segregation can overcome the two-fold cost, and Kondrashov?s Hatchet: benefits of
   recombination can over-come the two-fold cost of sex.'
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/53f9401bba25db78905af07fc8379d47_lec19_sex.pdf
+file_size: 613349
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

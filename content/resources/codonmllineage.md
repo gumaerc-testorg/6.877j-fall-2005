@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is a supporting file for lab 3 part 2 which contains codes
   for the program run on PAML software.
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/004f2a80547b82d4e866b5a72b3c2c42_codonmllineage.ctl
+file_size: 2262
 file_type: text/plain
 learning_resource_types:
 - Labs
