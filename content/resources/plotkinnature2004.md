@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/174e6b60a75cf0a9125feeebe26a3906_plotkinnature2004.pdf
+file_size: 220931
 file_type: application/pdf
 learning_resource_types:
 - Labs

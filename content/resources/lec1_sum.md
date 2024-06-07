@@ -5,6 +5,7 @@ description: 'This resource discusses outline of the theory of evolution, reccur
   of states, evolutionary change: transformational and variational, Darwin?s theory,
   Mendel?s discovery, Genotype space and Phenotype space, and Hardy-Weinberg proportions.'
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/06b1aedefb96546357e53d5a948a17ca_lec1_sum.pdf
+file_size: 200698
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

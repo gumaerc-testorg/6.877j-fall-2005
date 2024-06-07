@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is a supporting file for lab 2 part 2, used installing
   and running the CoalFace program.
 file: /courses/6-877j-computational-evolutionary-biology-fall-2005/fb59ee040610b0862a4fd7b1510ea3b8_CoalFace03btar.gz
+file_size: 5864079
 file_type: application/x-gzip
 learning_resource_types:
 - Labs
