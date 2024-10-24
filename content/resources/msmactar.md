@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for lab 2 part 2, contains Macintosh
   version for installing and running the ms program.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/141afda4987554d7c784caf351385fd4_msmactar.gz
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/141afda4987554d7c784caf351385fd4_msmactar.gz
 file_size: 28360
 file_type: application/x-gzip
 learning_resource_types:

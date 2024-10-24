@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for lab 3 part 2, contains PAML sequence
   file.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/03470db6f2ad020e2b3c47f392882380_paml_gstd1_seqfile.txt
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/03470db6f2ad020e2b3c47f392882380_paml_gstd1_seqfile.txt
 file_size: 1277
 file_type: text/plain
 learning_resource_types:
