@@ -4,7 +4,7 @@ description: This resource contains a very simple awk script piS that computes t
   diversity statistic p and an estimate of ? based on the Waterston segregating sites
   statistic (along with some other things, viz, Tajima?s D statistic), for a set of
   aligned sequences.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/2c344a9345550e8785cad8138c609f64_PiSawk.txt
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/2c344a9345550e8785cad8138c609f64_PiSawk.txt
 file_size: 3374
 file_type: text/plain
 learning_resource_types:

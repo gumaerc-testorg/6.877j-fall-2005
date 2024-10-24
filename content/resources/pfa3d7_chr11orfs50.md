@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 3 part 1, contains codes.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/fe9cc7c4bcf994449ef375521f7e0b64_Pfa3D7_chr11ORFs50.fasta
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/fe9cc7c4bcf994449ef375521f7e0b64_Pfa3D7_chr11ORFs50.fasta
 file_size: 1521212
 file_type: text/plain
 learning_resource_types:
