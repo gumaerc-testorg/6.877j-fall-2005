@@ -3,7 +3,7 @@ content_type: resource
 description: This resource is an addendum to part I, consisting of warm-up computer
   exercises with coalescent software along with the supporting files mentioned in
   the lab file.
-file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/a08f2d56408782b08f79ea0e8ad0b7db_lab_part2.pdf
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/a08f2d56408782b08f79ea0e8ad0b7db_lab_part2.pdf
 file_size: 293744
 file_type: application/pdf
 learning_resource_types:
