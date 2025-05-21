@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for lab 3 part 1 containing sequence
   alignment of Plasmodium falciparum (malaria).
-file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/c2b379d4a80d0b435f27430c8ec282ef_falciparum.fas
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/c2b379d4a80d0b435f27430c8ec282ef_falciparum.fas
 file_size: 70278
 file_type: text/plain
 learning_resource_types:
