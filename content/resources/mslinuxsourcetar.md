@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource is a supporting file for lab 2 part 2, contains compiled
   source code files.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/b16237a3b15d1794df43cba0b8786c23_mslinuxsourcetar.gz
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/b16237a3b15d1794df43cba0b8786c23_mslinuxsourcetar.gz
 file_size: 18548
 file_type: application/x-gzip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource is a supporting file for lab 2 part 2, contains files for
   installing and running the ms program.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/6eb67685cd2756a88099f36f282a934a_msmacsourcetar.gz
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/6eb67685cd2756a88099f36f282a934a_msmacsourcetar.gz
 file_size: 19144
 file_type: application/x-gzip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

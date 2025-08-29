@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource is a supporting file for lab 3 part 2 contains codes run
   PAML software.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/57eda6d41fa678599ef982f658323641_codonmlpair.ctl
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/57eda6d41fa678599ef982f658323641_codonmlpair.ctl
 file_size: 2262
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
