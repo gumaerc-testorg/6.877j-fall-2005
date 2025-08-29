@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 3 part 2, contains codes.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/d74a15048c93c142c1afe4b3e14190f5_mhc.phy
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/d74a15048c93c142c1afe4b3e14190f5_mhc.phy
 file_size: 5009
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
