@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 3 part 2, contains PAML description.
-file: /courses/6-877j-computational-evolutionary-biology-fall-2005/0e0d40a5abde786cff50acb3e4f03acd_pamldescription.pdf
+file: /ol-ocw-studio-app/courses/6-877j-computational-evolutionary-biology-fall-2005/0e0d40a5abde786cff50acb3e4f03acd_pamldescription.pdf
 file_size: 49581
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
