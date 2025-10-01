@@ -17,21 +17,21 @@ The lab assignments in the course made use of several software programs. Detaile
 Populus
 -------
 
-Populus is produced by Don Alstad at the University of Minnesota to foster instruction in population biology. The Populus software contains a set of simulations that are used to teach population biology and evolutionary ecology. For more information and to download Populus, visit their [Web site](http://www.cbs.umn.edu/populus).
+Populus is produced by Don Alstad at the University of Minnesota to foster instruction in population biology. The Populus software contains a set of simulations that are used to teach population biology and evolutionary ecology. For more information and to download Populus, visit their {{% resource_link "a7fa7fcb-2936-4e31-af5a-676e2d4a17f1" "Web site" %}}.
 
 PopG
 ----
 
-PopG is a one-locus, two-allele genetic simulation program created by University of Washington and Joseph Felsenstein. To download PopG, visit their [Web site](http://evolution.gs.washington.edu/popgen/popg.html).
+PopG is a one-locus, two-allele genetic simulation program created by University of Washington and Joseph Felsenstein. To download PopG, visit their {{% resource_link "b6a56171-e1e5-441f-ad0c-346357c0698c" "Web site" %}}.
 
 CoalFace
 --------
 
 CoalFace is a simulation of the coalescent process with the visual display of gene genealogies, developed by Wayne Delport & Michael Cunningham at the University of Pretoria. CoalFace has been developed predominantly as a teaching tool, yet some basic coalescent simulation analyses can be performed.
 
-Both Windows® and Linux® (Intel) executables are available at their [Web site](http://www.yolinux.com/TUTORIALS/LinuxTutorialRunMicrosoftExe.html).
+Both Windows® and Linux® (Intel) executables are available at their {{% resource_link "5ddb7467-c04e-4157-8a75-07a37382d882" "Web site" %}}.
 
 PAML (Phylogenetic Analysis by Maximum Likelihood)
 --------------------------------------------------
 
-PAML is a package of programs for phylogenetic analyses of DNA or protein sequences using maximum likelihood. It is maintained and distributed for academic use free of charge by Ziheng Yang. To download source files and the software documentation, visit their [Web site](http://abacus.gene.ucl.ac.uk/software/paml.html).
+PAML is a package of programs for phylogenetic analyses of DNA or protein sequences using maximum likelihood. It is maintained and distributed for academic use free of charge by Ziheng Yang. To download source files and the software documentation, visit their {{% resource_link "dacc0cd3-0d14-4491-95a2-3a5ec5defb45" "Web site" %}}.

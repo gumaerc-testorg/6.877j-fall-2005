@@ -42,7 +42,7 @@ sites-testdata.txt ({{% resource_link 5d108ef2-1337-7dcf-7022-4afec1415c10 "TXT"
 
 Supporting files for Lab 2 (Part 2):
 
-[ms](http://home.uchicago.edu/~rhudson1/source/mksamples.html) is from Professor Richard Hudson at University of Chicago. The following compiled binaries and source files are provided courtesy of Richard Hudson, and used with permission.
+{{% resource_link "67db7b31-313d-4fc9-bc67-d984fb421128" "ms" %}} is from Professor Richard Hudson at University of Chicago. The following compiled binaries and source files are provided courtesy of Richard Hudson, and used with permission.
 
 msmac.tar.gz ({{% resource_link 141afda4-9875-54d7-c784-caf351385fd4 "GZ" %}}) (The GZ file contains: params, clms, migmat, col1, ms, stats, sample\_stats, seedms, .\_.DS\_Store, and .DS\_Store.)  
 mslinux.tar.gz ({{% resource_link 9241a7d2-db31-fbe7-649e-85b7093ba56a "GZ" %}}) (The GZ file contains: clms, col1, seedms, ms, stats, and sample\_stats.)  
@@ -80,4 +80,4 @@ The supporting files are needed to complete the lab exercises. Each lab explains
 The Population Genetics and Evolution Simulation
 ------------------------------------------------
 
-The Populus Java® computer program, version 5.3 that is needed to complete Lab 1 is available at the University of Minnesota [Web site](http://www.cbs.umn.edu/populus/purejava1). Make sure you have checked for Java® compatibility according to the instructions on that page. A PDF file of [instructions for all modules is available (PDF)](https://www.ableweb.org/biologylabs/wp-content/uploads/volumes/vol-21/6-barton.pdf).
+The Populus Java® computer program, version 5.3 that is needed to complete Lab 1 is available at the University of Minnesota {{% resource_link "cc1cc311-6229-4143-af2d-9256b1b43544" "Web site" %}}. Make sure you have checked for Java® compatibility according to the instructions on that page. A PDF file of {{% resource_link "81ce98a6-6488-4aa1-bdf3-e557dec19f2c" "instructions for all modules is available (PDF)" %}}.
